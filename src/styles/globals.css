@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+:root{
+    --Cor-das-bordas: #6528D3;
+    --Cor-do-botão: #6528D3;
+    --Cor-de-fundo-dos-inputs: #110230;
+}
